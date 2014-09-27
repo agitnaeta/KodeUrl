@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Kode Url</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <script src="js/ie-emulation-modes-warning.js"></script>
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+    <link href="carousel.css" rel="stylesheet">
+  </head>
+<!-- NAVBAR
+================================================== -->
+  <body>
+    <div class="navbar-wrapper">
+      <div class="container">
+
+        <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="http://kode.url.ph">Kode URL</a>
+            </div>
+            <div class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="http://kode.url.ph">Home</a></li>
+                <li><a href="http://kode.url.ph/about">About</a></li>
+                <li><a href="http://kode.url.ph/download">Download Area</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+    <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <div class="carousel-inner">
+        <div class="item active">
+            <img src="img/bg.jpg" alt="First slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Kode Url</h1>
+              <p>Situs source kode web gratis, dibuat oleh Developer untuk Developer </p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Daftar Anggota!</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><!-- /.carousel -->
+
+
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    <div class="container marketing">
+
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="img/1.gif" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <h2>Free Kode</h2>
+          <p>kumpulan source gratis untuk belajar tanpa ada batasan atau tuntutan harus mengambangkan, tidak ada paksaan!</p>
+          <p><a class="btn btn-default" href="http://kode.url.ph" role="button">Share Area &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="img/2.gif" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <h2>Newie</h2>
+          <p>Newbie programmer boleh mendownload kode dengan mudah, dipersilahkan bertanya pada forum yang disediakan!</p>
+          <p><a class="btn btn-default" href="#" role="button">Download &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="img/3.gif" alt="Generic placeholder image" style="width: 140px; height: 140px;">
+          <h2>+Developer</h2>
+          <p>Demi kemajuan bersama developer dipersilahkan mengapload project yang dimiliki demi pembelajaran bagi yang lain, supaya terjadi keuntungan bersama</p>
+          <p><a class="btn btn-default" href="#" role="button">Daftar! &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+
+      <!-- START THE FEATURETTES -->
+
+      <!-- /END THE FEATURETTES -->
+
+
+      <!-- FOOTER -->
+      <footer>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+      </footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="../../../ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/docs.min.js"></script>
+  
+
+</body>
+
+<!-- Mirrored from getbootstrap.com/examples/carousel/ by HTTrack Website Copier/3.x [XR&CO'2013], Fri, 18 Jul 2014 02:21:59 GMT -->
+</html>
